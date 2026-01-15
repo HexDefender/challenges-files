@@ -1,0 +1,38 @@
+From: Internal IT <alerts@hexdefender.local>
+To: phantom_mail@hexdefender.local
+Subject: URGENT: Account Verification Required
+Date: Thu, 15 Jan 2026 16:40:00 +0300
+Message-ID: <20260115163959.4481@relay.hexdefender.local>
+Received: from relay.hexdefender.local (10.10.10.5) by mx.hexdefender.local;
+ Thu, 15 Jan 2026 16:39:59 +0300
+Received: from unknown (185.199.110.153) by relay.hexdefender.local; Thu, 15
+ Jan 2026 16:39:55 +0300
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1058936172698894823=="
+
+--===============1058936172698894823==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Please review the attached document to complete the verification process.
+The archive is protected using a word you see every day here.
+Hint: branding matters.
+
+Regards,
+HexDefender IT Team
+
+--===============1058936172698894823==
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="documents.bin"
+MIME-Version: 1.0
+
+UEsDBAoACQAAAIWDL1w1VnFSNQAAACkAAAAKABwAcmVwb3J0LnR4dFVUCQADmhVpaZMVaWl1eAsA
+AQToAwAABOgDAABs3+NNTaFc9RyGrhUlARanlmUDQg5a2um1BgIY8z96BSPsxJSCz0EsQFgMHu6s
+ditLIoR3mlBLBwg1VnFSNQAAACkAAABQSwECHgMKAAkAAACFgy9cNVZxUjUAAAApAAAACgAYAAAA
+AAABAAAApIEAAAAAcmVwb3J0LnR4dFVUBQADmhVpaXV4CwABBOgDAAAE6AMAAFBLBQYAAAAAAQAB
+AFAAAACJAAAAAAA=
+
+--===============1058936172698894823==--
